@@ -1,7 +1,6 @@
 
 ## Iae, eu sou o lu1pinho. 
->Sobre mim: Sou um pequeno iniciante no mundo da programação. Esse perfil está vazio, mas pretento desenvolver e mostrar as minhas habilidades. 
-<br>
+Meu nome é Luís e sou um pequeno iniciante no mundo da programação. Atualmente, estou tentando desenvolver e aprimorar minhas habilidades na área para mostrar o meu trabalho. Este perfil pode estar vazio agora, mas eu espero preenchê-lo com muitas coisas "fodasticas". ✨ <br>Estou animado para conhecer outras pessoas que compartilham a mesma paixão pela programação que eu! <br> Uma curiosidade sobre mim é que eu não sou fã de café, ao contrário da maioria dos programadores. ☕
 
 
 ### REDES SOCIAIS
