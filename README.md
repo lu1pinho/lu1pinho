@@ -1,5 +1,5 @@
 
-## Iae, eu sou o lu1pinho. 
+## HEY, I'M LU1PINHO!
 
 ### SOBRE MIM
 > Meu nome é Luís e sou um pequeno iniciante no mundo da programação. Estou tentando desenvolver e aprimorar minhas habilidades na área para mostrar o meu trabalho. Este perfil pode estar vazio agora, mas espero preenchê-lo com muitos projetos futuros. <br> Sou estudante de SPI no Instituto Federal do Tocantins (Campus Palmas) e meu foco principal no momento é desenvolvimento web, amo front-ent. ✨<br> 
