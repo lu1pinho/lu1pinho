@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**lu1pinho/lu1pinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Iae, eu sou o lu1pinho. 
+>Sobre mim: Sou um pequeno iniciante no mundo da programação. Esse perfil está vazio, mas pretento desenvolver e mostrar as minhas habilidades. 
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### REDES SOCIAIS
+[![github](https://img.shields.io/badge/GitHub-000011?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/lu1pinho)
+[![Instagram](https://img.shields.io/badge/Instagram-000011?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiscripts)
+[![discord](https://img.shields.io/badge/Discord-000011?style=for-the-badge&logo=discord&logoColor=white)](https://https://github.com/lu1pinho)
+
+### HABILIDADES
+![html5](https://img.shields.io/badge/HTML5-002?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-002?style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/Java-002?style=for-the-badge&logo=openjdk&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-002?style=for-the-badge&logo=figma&logoColor=white)
+![adobe xd](https://img.shields.io/badge/Adobe%20XD-002?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+
+
+
+
