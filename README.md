@@ -3,8 +3,8 @@
 
 ### SOBRE MIM
 > Meu nome é Luís e sou um pequeno iniciante no mundo da programação. Estou tentando desenvolver e aprimorar minhas habilidades na área para mostrar o meu trabalho. Este perfil pode estar vazio agora, mas espero preenchê-lo com muitos projetos futuros. <br> Sou estudante de Ciência da Computação na Universidade Federal do Tocantins (Campus Palmas) e egresso do curso de SPI no Instituto Federal do Tocantins. Meu foco principal é no desenvolvimento web, amo front-ent. ✨<br> 
->#### DESCAFEINADO ☕
->Uma curiosidade sobre mim é que eu não sou fã de café, ao contrário da maioria dos programadores. Ao menos eu tenho aquela coquinha gelada de lei! ❤️
+>#### DESCAFEINADO 
+>Uma pequena curiosidade sobre mim é que eu não sou fã de café, ao contrário da maioria dos programadores. Ao menos eu tenho aquela coquinha gelada de lei! 
 >#### BORA PAPEAR
 >Se você quiser bater um papo sobre programação ou compartilhar suas próprias experiências na área, sinta-se livre para entrar em contato comigo. Estou animado para conhecer outras pessoas que compartilham a mesma paixão pela programação que eu! 🚀
 
