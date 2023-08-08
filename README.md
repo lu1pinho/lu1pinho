@@ -1,8 +1,8 @@
 
-## HEY, I'M LU1PINHO! 
+## HEY, I'M LUÍS! 
 
 ### SOBRE MIM
-> Meu nome é Luís e sou um pequeno iniciante no mundo da programação. Estou tentando desenvolver e aprimorar minhas habilidades na área para mostrar o meu trabalho. Este perfil pode estar vazio agora, mas espero preenchê-lo com muitos projetos futuros. <br> Sou estudante de SPI no Instituto Federal do Tocantins (Campus Palmas) e meu foco principal no momento é desenvolvimento web, amo front-ent. ✨<br> 
+> Meu nome é Luís e sou um pequeno iniciante no mundo da programação. Estou tentando desenvolver e aprimorar minhas habilidades na área para mostrar o meu trabalho. Este perfil pode estar vazio agora, mas espero preenchê-lo com muitos projetos futuros. <br> Sou estudante de Ciência da Computação na Universidade Federal do Tocantins (Campus Palmas) e egresso do curso de SPI no Instituto Federal do Tocantins. Meu foco principal é no desenvolvimento web, amo front-ent. ✨<br> 
 >#### DESCAFEINADO ☕
 >Uma curiosidade sobre mim é que eu não sou fã de café, ao contrário da maioria dos programadores. Ao menos eu tenho aquela coquinha gelada de lei! ❤️
 >#### BORA PAPEAR
