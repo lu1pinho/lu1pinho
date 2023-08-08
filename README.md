@@ -1,6 +1,6 @@
 
 ## HEY, I'M LUÍS! 
-
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
 ### SOBRE MIM
 > Meu nome é Luís e sou um pequeno iniciante no mundo da programação. Estou tentando desenvolver e aprimorar minhas habilidades na área para mostrar o meu trabalho. Este perfil pode estar vazio agora, mas espero preenchê-lo com muitos projetos futuros. <br> Sou estudante de Ciência da Computação na Universidade Federal do Tocantins (Campus Palmas) e egresso do curso de SPI no Instituto Federal do Tocantins. Meu foco principal é no desenvolvimento web, amo front-ent. ✨<br> 
 >#### DESCAFEINADO 
