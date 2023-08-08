@@ -1,5 +1,5 @@
 
-<img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430]" width="30"/> ## HEY, I'M LUÍS! 
+ ## HEY, I'M LUÍS! <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430]" width="30"/>
 [![](https://img.shields.io/badge/-@lu1pinho-%23181717?style=flat-square&logo=github)](https://github.com/lu1pinho)
 ### SOBRE MIM
 > Meu nome é Luís e sou um pequeno iniciante no mundo da programação. Estou tentando desenvolver e aprimorar minhas habilidades na área para mostrar o meu trabalho. Este perfil pode estar vazio agora, mas espero preenchê-lo com muitos projetos futuros. <br> Sou estudante de Ciência da Computação na Universidade Federal do Tocantins (Campus Palmas) e egresso do curso de SPI no Instituto Federal do Tocantins. Meu foco principal é no desenvolvimento web, amo front-ent. ✨<br> 
