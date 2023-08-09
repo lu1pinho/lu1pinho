@@ -7,8 +7,8 @@
 
 Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins e egresso do curso de SPI no IFTO. Sou um pequeno iniciante no mundo da programação e estou tentando desenvolver/aprimorar minhas habilidades na área para mostrar o meu trabalho. 🚀
 
-- 🌅 Palmas, Tocantins, Brasil 
 - 🖌️ Desenvolvedor Front-End
+- 🌱 Ativista Ambiental
 - ☕ Não Gosto de Café
 - 🎶 Adoro ouvir músicas, um dos meus maiores prazeres é cozinhar para quem eu amo, viciado em joguinhos indie/fps e compor canções que jamais serão ouvidas
 
