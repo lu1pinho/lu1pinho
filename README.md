@@ -11,6 +11,7 @@ Sou estudante do curso de Ciência da Computação na Universidade Federal do To
 - 🌱 Ativista Ambiental
 - ☕ Não Gosto de Café
 - 🎶 Adoro ouvir músicas, um dos meus maiores prazeres é cozinhar para quem eu amo, viciado em joguinhos indie/fps e compor canções que jamais serão ouvidas
+- ⭐ Minha linguagem favorita no momento: JAVA
 
   
 Se você quiser bater um papo sobre programação ou compartilhar experiências, sinta-se livre para entrar em contato comigo. Estou animado para conhecer outras pessoas que compartilham a mesma paixão pela tecnologia que eu! ❤️
