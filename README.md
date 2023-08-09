@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-oluisgustavoalves@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oluisgustavoalves@gmail.com "Me mande um email :3")
 [![Telegram Badge](https://img.shields.io/badge/-@lu1pinho-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lu1pinho "Fale comigo pelo telegram :3")
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+
 
 Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins e egresso do curso de SPI no IFTO. Sou um pequeno iniciante no mundo da programação e estou tentando desenvolver/aprimorar minhas habilidades na área para mostrar o meu trabalho. 🚀
 
