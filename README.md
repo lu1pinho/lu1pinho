@@ -5,7 +5,7 @@
 
 
 
-Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins e egresso do curso de SPI no IFTO. Sou um pequeno iniciante no mundo da programação e estou tentando desenvolver/aprimorar minhas habilidades na área para mostrar o meu trabalho. 🚀
+Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins e egresso do curso superior em SPI no IFTO. Sou um pequeno iniciante no mundo da programação e estou tentando desenvolver/aprimorar minhas habilidades na área para mostrar o meu trabalho. 🚀
 
 - 🖌️ Desenvolvedor Front-End
 - 🌱 Ativista Ambiental
