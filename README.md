@@ -25,7 +25,6 @@ Se você quiser bater um papo sobre programação ou compartilhar experiências,
 </details>
 
 <div align="center">
-    <h3>GOSTO BASTANTE DE</h3>
     <img src="https://img.shields.io/badge/HTML5-019?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-019?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Java-019?style=for-the-badge&logo=openjdk&logoColor=white">
