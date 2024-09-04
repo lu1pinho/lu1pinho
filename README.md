@@ -7,12 +7,12 @@
 
 Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins. Sou um pequeno iniciante no mundo da programação e estou tentando desenvolver/aprimorar minhas habilidades. 🚀
 
-- 🖌️ Desenvolvedor Front-End
+- 🖌️ Front-End
 - 🌱 Ativista Ambiental
 - ☕ Aos poucos, estou me rendendo à cafeína. 
 - 🎶 Adoro ouvir músicas, um dos meus maiores prazeres é cozinhar para quem eu amo, viciado em joguinhos indie/fps e compor canções que jamais serão ouvidas
 - 🎨 Eu amo prototipar aplicativos e sites usando o Figma e o ProtoPie
-- ⭐ Minha linguagem favorita no momento é JAVA
+- ⭐ Amo JAVA
   
 Se você quiser bater um papo sobre programação ou compartilhar experiências, sinta-se livre para entrar em contato comigo. Estou animado para conhecer outras pessoas que compartilham a mesma paixão pela tecnologia que eu! ❤️
 <details>
