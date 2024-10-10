@@ -5,7 +5,7 @@
 
 
 
-Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins. Sou um pequeno iniciante no mundo da programação e estou tentando desenvolver/aprimorar minhas habilidades. 🚀
+Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins.  🚀
 
 - 🖌️ Front-End
 - 🌱 Ativista Ambiental
