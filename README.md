@@ -10,7 +10,6 @@ Construindo o ["Express Marketplace"](https://github.com/lu1pinho/expressproject
 Sou estudante do curso de Ciência da Computação na Universidade Federal do Tocantins.  🚀
 
 - 🖌️ Front-End
-- 🌱 Ativista Ambiental
 - ☕ Aos poucos, estou me rendendo à cafeína. 
 - 🎶 Adoro ouvir músicas, um dos meus maiores prazeres é cozinhar para quem eu amo, viciado em joguinhos indie/fps e compor canções que jamais serão ouvidas
 - 🎨 Eu amo prototipar aplicativos e sites usando o Figma e o ProtoPie
