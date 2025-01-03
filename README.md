@@ -1,7 +1,5 @@
 ## Iae, eu sou o [Luís](https://https://github.com/lu1pinho) <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8270/blob-dance.gif?1643514812" width="30"/> 
 
-Construindo o ["Express Marketplace"](https://github.com/lu1pinho/expressproject) 🚀
-
 [![Gmail Badge](https://img.shields.io/badge/-oluisgustavoalves@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oluisgustavoalves@gmail.com "Me mande um email :3")
 [![Telegram Badge](https://img.shields.io/badge/-@lu1pinho-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lu1pinho "Fale comigo pelo telegram :3")
 
