@@ -1,4 +1,4 @@
-## Iae, eu sou o [Luís](https://https://github.com/lu1pinho) <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8270/blob-dance.gif?1643514812" width="30"/> 
+## Iae, eu sou o [Luís](https://https://github.com/lu1pinho) <img src="https://emojis.slackmojis.com/emojis/images/1643514229/1971/coin.gif?1643514229" width="30"/> 
 
 <!--[![Twitter: ](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/) -->
 [![Telegram Badge](https://img.shields.io/badge/-@lu1pinho-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/lu1pinho "Fale comigo pelo telegram :3")
