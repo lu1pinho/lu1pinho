@@ -6,11 +6,5 @@
 [![GitHub Lu1pinho](https://img.shields.io/github/followers/lu1pinho?label=follow&style=social)](https://github.com/lu1pinho)
 
 Sou graduando do curso de Ciência da Computação na Universidade Federal do Tocantins. 
-
-- 🖌️ Front-End
-- ☕ Aos poucos, estou me rendendo à cafeína. 
-- 🎶 Adoro ouvir músicas, um dos meus maiores prazeres é cozinhar para quem eu amo, viciado em joguinhos indie/fps e compor canções que jamais serão ouvidas
-- 🎨 Eu amo prototipar aplicativos e sites usando o Figma e o ProtoPie
-- ⭐ Amo JAVA
   
 Se você quiser bater um papo sobre programação ou compartilhar experiências, sinta-se livre para entrar em contato comigo. Estou animado para conhecer outras pessoas que compartilham a mesma paixão pela tecnologia que eu! ❤️
