@@ -13,7 +13,7 @@ Tenho direcionado minha formação para o desenvolvimento full stack, explorando
 
 ### Principais habilidades técnicas
 
-`JavaScript` · `Node.js` · `Express` · `PHP` · `Python` · `Laravel` · `APIs REST`  
+`JavaScript` · `Node.js` · `Express` · `PHP` · `Laravel` · `Python` · `APIs REST`  
 `Tailwind CSS` · `UX/UI` · `Figma` · `MySQL` · `PostgreSQL` · `Git` · `GitHub` · `Scrum`
 
 <br>
